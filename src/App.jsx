@@ -23,7 +23,7 @@ function App() {
   }, [])
 
   return (
-    <GoogleOAuthProvider clientId="YOUR_GOOGLE_CLIENT_ID">
+    <GoogleOAuthProvider clientId={import.meta.env.VITE_GOOGLE_CLIENT_ID}>
       <Router>
         <Header user={user} setUser={setUser} />
         <Routes>
