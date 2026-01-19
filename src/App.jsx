@@ -1,6 +1,5 @@
 import { useState, useEffect } from 'react'
-import { BrowserRouter as Router, Routes, Route } from 'react-router-dom'
-import { GoogleOAuthProvider } from '@react-oauth/google'
+import { Routes, Route } from 'react-router-dom'
 import Header from './Header'
 import CartagenaHome from './CartagenaHome'
 import ActivityDetail from './ActivityDetail'
@@ -23,15 +22,13 @@ function App() {
   }, [])
 
   return (
-    <GoogleOAuthProvider clientId={import.meta.env.VITE_GOOGLE_CLIENT_ID}>
-      <Router>
-        <Header user={user} setUser={setUser} />
-        <Routes>
-          <Route path="/" element={<CartagenaHome />} />
-          <Route path="/activity/:id" element={<ActivityDetail />} />
-        </Routes>
-      </Router>
-    </GoogleOAuthProvider>
+    <>
+      <Header user={user} setUser={setUser} />
+      <Routes>
+        <Route path="/" element={<CartagenaHome />} />
+        <Route path="/activity/:id" element={<ActivityDetail />} />
+      </Routes>
+    </>
   )
 }
 
