@@ -1,0 +1,232 @@
+{
+  "activities": [
+    {
+      "id": 1,
+      "name": "Old Walled City Tour",
+      "image": "/image placeholder.jpg",
+      "category": "Historical",
+      "description": "Explore the colorful streets and historic landmarks of Cartagena's UNESCO World Heritage site",
+      "longDescription": "Experience the magic of Cartagena's enchanting Old Walled City on this guided walking tour. Wander through narrow cobblestone streets lined with pastel-colored colonial buildings, hidden plazas, and centuries-old fortifications. Your expert guide will share fascinating stories about the city's rich history, from its founding as a slave trading port to its role as a pirate stronghold. Visit iconic landmarks including the San Felipe fortress, Cathedral Basilica, and charming local shops. This tour captures the essence of what makes Cartagena one of South America's most romantic destinations.",
+      "price": "$45",
+      "icon": "🏛️",
+      "rating": 4.8,
+      "reviews": 324,
+      "duration": "3 hours",
+      "participants": "1,245",
+      "badge": "Bestseller",
+      "highlights": [
+        "UNESCO World Heritage Old City",
+        "Colorful colonial architecture",
+        "San Felipe fortress views",
+        "Cathedral Basilica",
+        "Local street markets",
+        "Expert historical guide"
+      ],
+      "includes": [
+        "Professional English-speaking guide",
+        "Walking tour of historic sites",
+        "Local insights and stories",
+        "Comfortable pace suitable for all fitness levels"
+      ],
+      "notIncludes": [
+        "Meals and beverages",
+        "Entrance fees to museums",
+        "Gratuities"
+      ],
+      "meetingPoint": "Plaza Santo Domingo, Cartagena Old City",
+      "availability": "Daily at 9:00 AM and 2:00 PM"
+    },
+    {
+      "id": 2,
+      "name": "Rosario Islands Adventure",
+      "image": "/image placeholder.jpg",
+      "category": "Beach",
+      "description": "Snorkeling and island hopping in the beautiful Rosario Islands",
+      "longDescription": "Escape to paradise with this full-day adventure to the stunning Rosario Islands archipelago. Crystal-clear turquoise waters, pristine white-sand beaches, and vibrant coral reefs await you. Snorkel alongside tropical fish, sea turtles, and colorful coral formations in some of the Caribbean's most beautiful dive sites. Visit multiple islands, relax on secluded beaches, and enjoy fresh seafood lunch prepared on the boat. Perfect for both experienced snorkelers and beginners, this is the ultimate Caribbean island experience.",
+      "price": "$65",
+      "icon": "🏝️",
+      "rating": 4.9,
+      "reviews": 512,
+      "duration": "8 hours",
+      "participants": "2,103",
+      "badge": "Top Rated",
+      "highlights": [
+        "Three island visits",
+        "Snorkeling in pristine waters",
+        "Sea turtle encounters",
+        "Coral reef exploration",
+        "Fresh seafood lunch",
+        "Swimming in secluded beaches"
+      ],
+      "includes": [
+        "Round-trip boat transportation",
+        "All snorkeling equipment",
+        "Professional guide",
+        "Fresh seafood lunch",
+        "Drinks and fresh fruit",
+        "Dry bag for valuables",
+        "Snacks and water"
+      ],
+      "notIncludes": [
+        "Hotel pickup",
+        "Underwater camera rental",
+        "Gratuities"
+      ],
+      "meetingPoint": "Castillogrande Dock, Cartagena",
+      "availability": "Daily at 8:00 AM"
+    },
+    {
+      "id": 3,
+      "name": "Caribbean Sunset Cruise",
+      "image": "/image placeholder.jpg",
+      "category": "Water Sports",
+      "description": "Romantic sunset cruise along the Caribbean coast with drinks and snacks",
+      "longDescription": "Experience the magic of a Caribbean sunset from the deck of a beautiful sailboat. Watch the sky transform into shades of orange, pink, and purple as you cruise along Cartagena's pristine coastline. Enjoy complimentary drinks and snacks while mingling with fellow travelers or spending quality time with your loved one. Perfect for couples, friends, or solo travelers seeking a memorable evening. The breeze, the views, and the atmosphere combine to create an unforgettable experience.",
+      "price": "$55",
+      "icon": "🚤",
+      "rating": 4.7,
+      "reviews": 287,
+      "duration": "3.5 hours",
+      "participants": "856",
+      "badge": null,
+      "highlights": [
+        "Scenic sunset views",
+        "Sailboat experience",
+        "Open bar with rum drinks",
+        "Fresh tropical snacks",
+        "Caribbean breeze",
+        "Romantic atmosphere"
+      ],
+      "includes": [
+        "Sailboat cruise",
+        "Open bar (rum, beer, soft drinks)",
+        "Fresh fruit and snacks",
+        "Professional crew",
+        "Life jackets available",
+        "HD photos (digital copies)"
+      ],
+      "notIncludes": [
+        "Hotel transportation",
+        "Dinner",
+        "Gratuities"
+      ],
+      "meetingPoint": "Marina Cartagena, Puerto Bahia",
+      "availability": "Daily at 4:30 PM (seasonal)"
+    },
+    {
+      "id": 4,
+      "image": "/image placeholder.jpg",
+      "name": "Local Street Food Tour",
+      "category": "Food & Drink",
+      "description": "Taste authentic Cartagena cuisine with a local guide",
+      "longDescription": "Dive into the authentic flavors of Cartagena on this gastronomic walking tour. Explore hidden food stalls, family-run restaurants, and vibrant markets guided by a knowledgeable local. Taste traditional dishes like ceviche, arepas, patacones, and dulce de leche. Learn about local ingredients, traditional cooking methods, and the cultural significance of each dish. This isn't just a food tour—it's a cultural immersion that reveals the soul of Cartagena through its cuisine.",
+      "price": "$40",
+      "icon": "🍲",
+      "rating": 4.9,
+      "reviews": 401,
+      "duration": "4 hours",
+      "participants": "1,678",
+      "badge": "Best Value",
+      "highlights": [
+        "8-10 food tastings",
+        "Traditional Cartagena cuisine",
+        "Local market visit",
+        "Cooking stories and history",
+        "Beverages included",
+        "Expert local guide"
+      ],
+      "includes": [
+        "4-hour guided walking tour",
+        "8-10 local food tastings",
+        "Beverages with meals",
+        "Professional local guide",
+        "Small group experience",
+        "All tips for food vendors included"
+      ],
+      "notIncludes": [
+        "Additional meals outside the tour",
+        "Hotel transportation",
+        "Gratuities for guide"
+      ],
+      "meetingPoint": "San Diego neighborhood entrance",
+      "availability": "Tuesday to Sunday at 10:00 AM and 4:00 PM"
+    },
+    {
+      "id": 5,
+      "image": "/image placeholder.jpg",
+      "name": "Volcano Mud Bath Experience",
+      "category": "Nature",
+      "description": "Unique mud bath experience at Totumo Volcano with therapeutic benefits",
+      "longDescription": "Experience a one-of-a-kind natural phenomenon at Totumo Volcano. This dormant volcano contains warm, mineral-rich mud believed to have therapeutic and healing properties. Float effortlessly in the mud as your guide explains the geological history and health benefits. The experience is both relaxing and invigorating. After your mud bath, rinse off in a nearby cenote with fresh water, then enjoy a local lunch. A truly unique and rejuvenating experience you won't find anywhere else.",
+      "price": "$50",
+      "icon": "🌋",
+      "rating": 4.6,
+      "reviews": 198,
+      "duration": "4.5 hours",
+      "participants": "734",
+      "badge": null,
+      "highlights": [
+        "Mud bath experience",
+        "Mineral-rich therapeutic mud",
+        "Cenote rinse",
+        "Expert guide",
+        "Local lunch",
+        "Unique natural phenomenon"
+      ],
+      "includes": [
+        "Round-trip transportation",
+        "Professional guide",
+        "Mud bath experience",
+        "Fresh water rinse at cenote",
+        "Local lunch",
+        "Towels provided",
+        "Photos of experience"
+      ],
+      "notIncludes": [
+        "Hotel pickup",
+        "Swimsuit rental",
+        "Gratuities"
+      ],
+      "meetingPoint": "Totumo Volcano, outside Cartagena",
+      "availability": "Daily at 9:00 AM and 1:00 PM"
+    },
+    {
+      "image": "/image placeholder.jpg",
+      "id": 6,
+      "name": "Night Club & Salsa Dancing",
+      "category": "Entertainment",
+      "description": "Experience Cartagena's vibrant nightlife with salsa dancing",
+      "longDescription": "Feel the rhythm of Cartagena's legendary nightlife! Start with a fun salsa dancing lesson from a professional instructor, then head to one of the city's hottest night clubs. Dance to live reggaeton, salsa, and Caribbean music alongside locals and fellow travelers. The energy is infectious, the drinks are flowing, and the party atmosphere is electric. This is your chance to experience Cartagena's famous nightlife scene like a true local. Whether you're an experienced dancer or a complete beginner, everyone is welcome.",
+      "price": "$35",
+      "icon": "💃",
+      "rating": 4.5,
+      "reviews": 156,
+      "duration": "4 hours",
+      "participants": "542",
+      "badge": "Popular",
+      "highlights": [
+        "Salsa dancing lesson",
+        "Live band performance",
+        "Night club entry",
+        "Open bar with drinks",
+        "Social atmosphere",
+        "Local experience"
+      ],
+      "includes": [
+        "Professional salsa dancing lesson",
+        "VIP entry to night club",
+        "3 complimentary drinks",
+        "Professional dance instructor",
+        "Small group experience",
+        "Live music entertainment"
+      ],
+      "notIncludes": [
+        "Hotel transportation",
+        "Dinner",
+        "Additional drinks beyond the 3 included"
+      ],
+      "meetingPoint": "Hotel zone meeting point (details provided after booking)",
+      "availability": "Thursday to Saturday at 10:00 PM"
+    }
+  ]
+}
