@@ -1,4 +1,5 @@
 import { useState } from 'react'
+import { Link } from 'react-router-dom'
 import './CartagenaHome.css'
 import activitiesData from './data.json'
 
@@ -77,11 +78,9 @@ function CartagenaHome() {
         <div className="activities-grid">
           {filteredActivities.length > 0 ? (
             filteredActivities.map(activity => (
-              <a 
+              <Link 
                 key={activity.id}
-                href={`/tourism-website/activity/${activity.id}`}
-                target="_blank"
-                rel="noopener noreferrer"
+                to={`/activity/${activity.id}`}
                 className="activity-card-link"
               >
                 <div className="activity-card">
@@ -116,7 +115,7 @@ function CartagenaHome() {
                     <button className="btn-book">View Details</button>
                   </div>
                 </div>
-              </a>
+              </Link>
             ))
           ) : (
             <div className="no-results">
