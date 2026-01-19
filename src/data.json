@@ -3,7 +3,7 @@
     {
       "id": 1,
       "name": "Old Walled City Tour",
-      "image": "/image placeholder.jpg",
+      "image": "/tourism-website/image placeholder.jpg",
       "category": "Historical",
       "description": "Explore the colorful streets and historic landmarks of Cartagena's UNESCO World Heritage site",
       "longDescription": "Experience the magic of Cartagena's enchanting Old Walled City on this guided walking tour. Wander through narrow cobblestone streets lined with pastel-colored colonial buildings, hidden plazas, and centuries-old fortifications. Your expert guide will share fascinating stories about the city's rich history, from its founding as a slave trading port to its role as a pirate stronghold. Visit iconic landmarks including the San Felipe fortress, Cathedral Basilica, and charming local shops. This tour captures the essence of what makes Cartagena one of South America's most romantic destinations.",
@@ -39,7 +39,7 @@
     {
       "id": 2,
       "name": "Rosario Islands Adventure",
-      "image": "/image placeholder.jpg",
+      "image": "/tourism-website/image placeholder.jpg",
       "category": "Beach",
       "description": "Snorkeling and island hopping in the beautiful Rosario Islands",
       "longDescription": "Escape to paradise with this full-day adventure to the stunning Rosario Islands archipelago. Crystal-clear turquoise waters, pristine white-sand beaches, and vibrant coral reefs await you. Snorkel alongside tropical fish, sea turtles, and colorful coral formations in some of the Caribbean's most beautiful dive sites. Visit multiple islands, relax on secluded beaches, and enjoy fresh seafood lunch prepared on the boat. Perfect for both experienced snorkelers and beginners, this is the ultimate Caribbean island experience.",
@@ -78,7 +78,7 @@
     {
       "id": 3,
       "name": "Caribbean Sunset Cruise",
-      "image": "/image placeholder.jpg",
+      "image": "/tourism-website/image placeholder.jpg",
       "category": "Water Sports",
       "description": "Romantic sunset cruise along the Caribbean coast with drinks and snacks",
       "longDescription": "Experience the magic of a Caribbean sunset from the deck of a beautiful sailboat. Watch the sky transform into shades of orange, pink, and purple as you cruise along Cartagena's pristine coastline. Enjoy complimentary drinks and snacks while mingling with fellow travelers or spending quality time with your loved one. Perfect for couples, friends, or solo travelers seeking a memorable evening. The breeze, the views, and the atmosphere combine to create an unforgettable experience.",
@@ -115,7 +115,7 @@
     },
     {
       "id": 4,
-      "image": "/image placeholder.jpg",
+      "image": "/tourism-website/image placeholder.jpg",
       "name": "Local Street Food Tour",
       "category": "Food & Drink",
       "description": "Taste authentic Cartagena cuisine with a local guide",
@@ -153,7 +153,7 @@
     },
     {
       "id": 5,
-      "image": "/image placeholder.jpg",
+      "image": "/tourism-website/image placeholder.jpg",
       "name": "Volcano Mud Bath Experience",
       "category": "Nature",
       "description": "Unique mud bath experience at Totumo Volcano with therapeutic benefits",
@@ -191,7 +191,7 @@
       "availability": "Daily at 9:00 AM and 1:00 PM"
     },
     {
-      "image": "/image placeholder.jpg",
+      "image": "/tourism-website/image placeholder.jpg",
       "id": 6,
       "name": "Night Club & Salsa Dancing",
       "category": "Entertainment",

@@ -79,7 +79,7 @@ function CartagenaHome() {
             filteredActivities.map(activity => (
               <a 
                 key={activity.id}
-                href={`/activity/${activity.id}`}
+                href={`/tourism-website/activity/${activity.id}`}
                 target="_blank"
                 rel="noopener noreferrer"
                 className="activity-card-link"
